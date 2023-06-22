@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  color: blanchedalmond;
+}
+a {
+  color: darkgray;
+  text-decoration: none;
+}
+
+a:hover {
+  color: aqua;
+  transition: all 0.3s ease;
+}
